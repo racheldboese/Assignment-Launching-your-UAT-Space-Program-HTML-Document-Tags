@@ -5,10 +5,10 @@
 <title>Page Title</title>
 </head>
 <body>
-
 <h1>UAT SPACE PROGRAM</h1>
 <p>Test of the document write function.</p>
 <p>Test of paragraph tags.</p>
-
+<button type="button">Start!</button>
+<button type="button">Stop!</button>
 </body>
 </html> 
