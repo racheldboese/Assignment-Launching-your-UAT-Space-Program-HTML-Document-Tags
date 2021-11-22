@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<img src="file:///Users/swampophile/Downloads/UATspaceLogo-2.jpg">
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>UAT SPACE PROGRAM</h1>
+<p>Test of the document write function.</p>
+<p>Test of paragraph tags.</p>
+
+</body>
+</html> 
