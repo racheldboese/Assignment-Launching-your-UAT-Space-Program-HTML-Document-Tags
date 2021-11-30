@@ -2,13 +2,14 @@
 <html>
 <img src="file:///Users/swampophile/Downloads/UATspaceLogo-2.jpg">
 <head>
-<title>Page Title</title>
+<title>Introduction to UAT Space Program</title>
 </head>
 <body>
 <h1>UAT SPACE PROGRAM</h1>
-<p>Test of the document write function.</p>
-<p>Test of paragraph tags.</p>
+<p>Welcome to UAT's program.</p>
+<p>Students create theories and then test them by launching things into the atmosphere.</p>
 <button type="button">Start!</button>
 <button type="button">Stop!</button>
+alert("Get Ready for Blastoff!");
 </body>
 </html> 
