@@ -6,6 +6,8 @@
 </head>
 <body>
 <h1>UAT SPACE PROGRAM</h1>
+ <script>alert("Get Ready for Blastoff!"); </script>
+ <br>
 <p>Welcome to UAT's program.</p>
 <p>Students create theories and then test them by launching things into the atmosphere.</p>
 <button type="button">Start!</button>
